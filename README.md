@@ -1,5 +1,6 @@
 # Face-Mask-Detection
-A Face Mask Detection Model using CNN
+A Face Mask Detection Model using CNN.
+
 In this Deep Learining Project a Face Mask Detector Model is build using the Convolutional Neural Network (CNN).
 The model can be used to identify if a person is wearing a mask or not.
 The data set used is available on kaggle.
